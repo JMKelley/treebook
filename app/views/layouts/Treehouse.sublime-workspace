@@ -1,0 +1,362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/jonathan/Desktop/Ruby Test/treebook/app/views/statuses/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 80,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jonathan/Desktop/Ruby Test/treebook/Gemfile",
+			"settings":
+			{
+				"buffer_size": 779,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jonathan/Desktop/Ruby Test/treebook/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1843,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jonathan/Desktop/Ruby Test/treebook/app/controllers/statuses_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1961,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n<html>\n<head>\n  <title>Treebook</title>\n  <%= stylesheet_link_tag    \"application\", :media => \"all\" %>\n  <%= javascript_include_tag \"application\" %>\n  <%= csrf_meta_tags %>\n</head>\n<body>\n\n	 <div class=\"navbar navbar-inverse navbar-fixed-top\">\n      <div class=\"container\">\n        <div class=\"navbar-header\">\n          <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-collapse\">\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n          </button>\n          <a class=\"navbar-brand\" href=\"#\">Project name</a>\n        </div>\n        <div class=\"navbar-collapse collapse\">\n          <ul class=\"nav navbar-nav\">\n            <li class=\"active\"><a href=\"#\">Home</a></li>\n            <li><a href=\"#about\">About</a></li>\n            <li> <%= link_to \"All Statuses\", statuses_path %> </li>\n          </ul>\n          <form class=\"navbar-form navbar-right\">\n            <div class=\"form-group\">\n              <input type=\"text\" placeholder=\"Email\" class=\"form-control\">\n            </div>\n            <div class=\"form-group\">\n              <input type=\"password\" placeholder=\"Password\" class=\"form-control\">\n            </div>\n            <button type=\"submit\" class=\"btn btn-success\">Sign in</button>\n          </form>\n        </div><!--/.navbar-collapse -->\n      </div>\n    </div>\n\n	<div class=\"container\">\n\n<%= yield %>\n\n	</div>\n</body>\n</html>\n",
+			"file": "application.html.erb",
+			"file_size": 1474,
+			"file_write_time": 130311065540000000,
+			"settings":
+			{
+				"buffer_size": 1459,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/assets/stylesheets/statuses.css.scss",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/views/statuses/index.html.erb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/config/environments/development.rb",
+		"/Users/jonathan/Downloads/treebook-stage2/Gemfile",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/assets/javascripts/statuses.js.coffee",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/views/statuses/show.html.erb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/views/statuses/new.html.erb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/views/layouts/application.html.erb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/views/statuses/edit.html.erb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/jonathan/Desktop/Ruby Test/treebook/app/views/statuses/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/jonathan/Desktop/Ruby Test/treebook/Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/jonathan/Desktop/Ruby Test/treebook/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/jonathan/Desktop/Ruby Test/treebook/app/controllers/statuses_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								488,
+								488
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Treehouse.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
