@@ -2,11 +2,15 @@
   <h1>All of the Statuses</h1>
 </div>
 
-<%= link_to "Post a New Status", new_status_path, class: "btn btn-success" %>
+  <% if user_signed_in? %>
+    <%= link_to "Post a New Status", new_status_path, class: "btn btn-success" %>
+  <% else %>
+    <%= link_to "Register To Post", new_user_registration_path, class: "btn btn-primary"  %>
+  <% end %>
 
 <% @statuses.each do |status| %>
 <div class="status">
-  <strong><%= status.name %></strong>
+  <strong><%= status.user.full_name %></strong>
   <p><%= status.content %></p>
   <div class="meta">
     <%= link_to time_ago_in_words(status.created_at) + " ago", status %> 
