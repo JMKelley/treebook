@@ -13,6 +13,8 @@ class UserTest < ActiveSupport::TestCase
 		assert !user.errors{:last_name}.empty?
 	end
 
+	
+
 	test "a user should enter their profile name" do 
 		user = User.new
 		assert !user.save

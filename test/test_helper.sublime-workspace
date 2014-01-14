@@ -1,0 +1,228 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"profile",
+				"profile_name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/views/devise/sessions/new.html.erb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/test/fixtures/users.yml",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/test/fixtures/statuses.yml",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/config/routes.rb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/assets/stylesheets/application.css",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/views/layouts/application.html.erb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/views/statuses/index.html.erb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/test/unit/user_test.rb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/helpers/application_helper.rb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/models/user.rb",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/models/status.rb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/config/initializers/inflections.rb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/views/devise/mailer/confirmation_instructions.html.erb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/config/initializers/simple_form_bootstrap.rb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/test/functional/statuses_controller_test.rb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/views/statuses/show.html.erb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/views/statuses/_form.html.erb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/Gemfile",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/db/migrate/20131230181049_add_user_id_to_statuses.rb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/views/devise/registrations/new.html.erb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/views/statuses/new.html.erb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/config/application.rb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/db/migrate/20131230175307_devise_create_users.rb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/controllers/statuses_controller.rb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/config/initializers/devise.rb",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/db/development.sqlite3",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/npm-debug.log",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/assets/stylesheets/statuses.css.scss",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/config/environments/development.rb",
+		"/Users/jonathan/Downloads/treebook-stage2/Gemfile",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/assets/javascripts/statuses.js.coffee",
+		"/Users/jonathan/Desktop/Ruby Test/treebook/app/views/statuses/edit.html.erb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "test_helper.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"app/views/statuses/show.html.erb"
+			],
+			[
+				"devise",
+				"db/migrate/20131230175307_devise_create_users.rb"
+			],
+			[
+				"app",
+				"config/application.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
