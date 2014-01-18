@@ -3,3 +3,10 @@ jonathan:
   last_name: "Kelley"
   email: "Jonathan@dotcom.com"
   profile_name: "Jonno"
+
+
+david:
+  first_name: "David"
+  last_name: "Kelley"
+  email: "David@dotcom.com"
+  profile_name: "David"
